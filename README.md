@@ -16,7 +16,9 @@ EVB code for RELAY controller based on NRF51
 
 ## Equipment
 
+## Demo video
 
+[![RELAY](http://img.youtube.com/vi/fJUbrlv1mdU/0.jpg)](https://www.youtube.com/watch?v=fJUbrlv1mdU "RELAY")
 
 ## Android Sample code
 [https://github.com/MaBaoGW/RELAY-Android-Sample]
