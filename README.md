@@ -11,7 +11,7 @@ EVB code for RELAY controller based on NRF51
 
 ## System Diagram
 
-<img alt="Crescendo sequence" src="/pic/systemdiagram.jpg" width="1000"/>
+<img alt="Crescendo sequence" src="/pic/systemdiagram.jpg" width="850"/>
 
 ## Schematic
 
@@ -24,11 +24,11 @@ PIN Name  Pin Function  Description
 
 ## PCB_Layout
 
-<img alt="Crescendo sequence" src="/pic/pcb_layout.JPG" width="500"/>
+<img alt="Crescendo sequence" src="/pic/pcb_layout.JPG" width="420"/>
 
 ## Equipment
 
-<img alt="Crescendo sequence" src="/pic/Equipment.jpg" width="1000"/>
+<img alt="Crescendo sequence" src="/pic/Equipment.jpg" width="800"/>
 
 ## Demo video
 
