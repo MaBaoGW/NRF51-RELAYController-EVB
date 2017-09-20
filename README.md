@@ -5,16 +5,30 @@ EVB code for RELAY controller based on NRF51
 * Nordic Semiconductor [nRF5 SDK v11.0.0](http://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v11.x.x/)
 * Nordic Semiconductor [nRF5x Command Line Tools](http://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK#Downloads)
 
+## Features
+
+## Specification
+
 ## System Diagram
 
+<img alt="Crescendo sequence" src="/pic/System Diagram.jpg" width="1000"/>
 
 ## Schematic
+
+<img alt="Crescendo sequence" src="/pic/Schematic.jpg" width="1000"/>
+
+## Pin Define
+
+PIN Name  Pin Function  Description
 
 
 ## PCB_Layout
 
+<img alt="Crescendo sequence" src="/pic/PCB_Layout.jpg" width="1000"/>
 
 ## Equipment
+
+<img alt="Crescendo sequence" src="/pic/Equipment.jpg" width="1000"/>
 
 ## Demo video
 
