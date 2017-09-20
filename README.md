@@ -24,7 +24,7 @@ PIN Name  Pin Function  Description
 
 ## PCB_Layout
 
-<img alt="Crescendo sequence" src="/pic/pcb_layout.JPG" width="1000"/>
+<img alt="Crescendo sequence" src="/pic/pcb_layout.JPG" width="500"/>
 
 ## Equipment
 
